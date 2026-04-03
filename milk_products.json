@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Urban Platter Unsweetened Almond Beverage (Lactose-Free, Plant-Based / Vegan / Milk Alternative)",
+        "price": "₹51",
+        "rating": "1",
+        "quantity": "30 g",
+        "delivery_time": "17 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png?dpr_multiplier=3.00"
+    },
+    {
+        "name": "Country Delight 30 g High Protein Cow Milk",
+        "price": "₹51",
+        "rating": "",
+        "quantity": "30 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/05739f52-31d4-4ad1-80c3-fd2091d5990e.png"
+    },
+    {
+        "name": "Amul Taaza Toned Milk",
+        "price": "₹29",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png"
+    },
+    {
+        "name": "Amul Gold Full Cream Milk",
+        "price": "₹69",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/74b0d3be-111c-4342-ac27-43fd7bb54793.png"
+    },
+    {
+        "name": "Mother Dairy Toned Milk",
+        "price": "₹29",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a538dae1-f4a3-49c9-aaf0-586b2855f825.png"
+    },
+    {
+        "name": "Country Delight Cow Fresh Milk",
+        "price": "₹46",
+        "rating": "",
+        "quantity": "450 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b91b3590-34ae-4f9b-a53a-6951452fb937.png"
+    },
+    {
+        "name": "Amul Cow Milk",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1770981407245-4.png"
+    },
+    {
+        "name": "Amul Taaza Homogenised Toned Milk",
+        "price": "₹75",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9a4088cc-db19-4add-b3ce-2edd4d09f4ae.png"
+    },
+    {
+        "name": "Amul Lactose Free Milk",
+        "price": "₹25",
+        "rating": "",
+        "quantity": "250 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/87c1c525-750e-475f-91d1-f155026ddaa1.png"
+    },
+    {
+        "name": "Amul Buffalo A2 Milk",
+        "price": "₹38",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1ded64a0-9f20-4a1d-8211-156f221b377b.png"
+    },
+    {
+        "name": "Amul Moti Toned Milk (90 Days Shelf Life)",
+        "price": "₹33",
+        "rating": "",
+        "quantity": "450 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eb2ba2ce-96fd-43cb-acc0-2a04ff6b810d.png"
+    },
+    {
+        "name": "Mother Dairy Cow Milk",
+        "price": "₹59",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/445dd501-cb9c-4595-bc6e-341913ccdd32.png"
+    },
+    {
+        "name": "Mother Dairy Full Cream Milk",
+        "price": "₹35",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c1d65f38-031a-4028-8bf6-a5fc2f0e288d.png"
+    },
+    {
+        "name": "Amul Gold Milk",
+        "price": "₹83",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8b6b5194-6eaa-4db2-9257-2d27ad931303.png"
+    },
+    {
+        "name": "Amul Taaza Toned Milk - Pack of 2",
+        "price": "₹34",
+        "rating": "2",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ce70d80f-bb6d-4aea-b1b2-eba9b30bf0ac.png"
+    },
+    {
+        "name": "Mother Dairy FIT Life Homogenized Double Toned Milk (450 ml)",
+        "price": "₹32",
+        "rating": "",
+        "quantity": "450 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/af0e692b-af5a-464f-8766-59ce4b4ad95c.png"
+    },
+    {
+        "name": "Nestle a+ Toned Milk",
+        "price": "₹98",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d72751f9-e17e-4942-aa8d-0eda5d43ed90.png"
+    },
+    {
+        "name": "Humpy Farms Cow A2 Milk",
+        "price": "₹46",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9f3a7272-e63e-4532-8ad0-832a275b499b.png"
+    },
+    {
+        "name": "Amul Gir Cow A2 Milk",
+        "price": "₹80",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/53cc4198-105d-4a42-a9e8-664297a37683.png"
+    },
+    {
+        "name": "Mother Dairy Toned Milk",
+        "price": "₹75",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/dab55302-9f72-4479-bd04-a72e1dd4613e.png"
+    },
+    {
+        "name": "Mother Dairy Pro Milk",
+        "price": "₹35",
+        "rating": "",
+        "quantity": "500 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2cf3020b-eae8-4909-b3b0-fe96c7e4e177.png"
+    },
+    {
+        "name": "Mother Dairy FIT Life Homogenized Double Toned Milk",
+        "price": "₹10",
+        "rating": "",
+        "quantity": "115 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/633464b4-cd75-4eca-ac3b-600eb48619e5.png"
+    },
+    {
+        "name": "Amul Buffalo Milk (90 Days Shelf Life)",
+        "price": "₹36",
+        "rating": "",
+        "quantity": "450 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2e6808fb-d8ea-422d-bb1e-05035fa268f6.png"
+    },
+    {
+        "name": "Amul Buffalo A2 Milk",
+        "price": "₹88",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6032ea96-4ab2-44b4-8b46-f6bbf7cecfa7.png"
+    },
+    {
+        "name": "Amul Calci+ Milk",
+        "price": "₹98",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/10be8278-544a-4c72-b2b4-f8b94ed4a2da.png"
+    },
+    {
+        "name": "Amul Camel Milk",
+        "price": "₹25",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b19e7c30-05c0-4d42-9abc-2c6c2ef7c267.png"
+    },
+    {
+        "name": "Yakult Light Mango Probiotic Fermented Milk Drink",
+        "price": "₹100",
+        "rating": "5",
+        "quantity": "65 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/22a31d80-a56a-4241-82ef-8de00a46c9c4.png"
+    },
+    {
+        "name": "Hommade Coconut Milk",
+        "price": "₹81",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaea170d-479e-4003-8303-bd0e0ee6607d.png"
+    },
+    {
+        "name": "Amul Kool Badam Flavoured Milk",
+        "price": "₹25",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1a98a20c-8ed3-473f-a306-e03bd1e75a7f.png"
+    },
+    {
+        "name": "Ananda Paneer (Made From Cow Milk) - with Free Curd",
+        "price": "₹85",
+        "rating": "",
+        "quantity": "180 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/967f7631-8078-4433-af85-cbea08dfad60.png"
+    },
+    {
+        "name": "Amul Kool Kesar Flavoured Milk",
+        "price": "₹25",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d991a261-ae1a-483f-8c1c-a25b4e1916bb.png"
+    },
+    {
+        "name": "Urban Platter Unsweetened Coconut Milk",
+        "price": "₹140",
+        "rating": "",
+        "quantity": "250 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b40c7b00-a013-4c3e-b816-bd3fa4b25dfb.png"
+    },
+    {
+        "name": "Real Thai Unsweetened Coconut Milk",
+        "price": "₹150",
+        "rating": "",
+        "quantity": "250 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1773385515396-908.png"
+    },
+    {
+        "name": "Smoodh Chocolate Hazelnut Flavoured Milk (Pet Bottle)",
+        "price": "₹18",
+        "rating": "",
+        "quantity": "150 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e741d5e5-b1db-4a20-aa27-f009f9547bf2.png"
+    },
+    {
+        "name": "Smoodh Chocolate Dairy Based Flavoured Milk (Pet Bottle)",
+        "price": "₹18",
+        "rating": "",
+        "quantity": "150 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c786b5fe-e955-48f2-bf25-f30ebb7f9727.png"
+    },
+    {
+        "name": "Urban Platter Unsweetened Almond Beverage (Lactose-Free, Plant-Based / Vegan / Milk Alternative)",
+        "price": "₹225",
+        "rating": "1",
+        "quantity": "",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a7219210-d45b-4edf-90c2-43d448321de9.png"
+    },
+    {
+        "name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk (Can)",
+        "price": "₹35",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/66751334-2a0b-4f91-823a-bb76fc79363f.png"
+    },
+    {
+        "name": "Nestlé NAN PRO Stage 2 Follow-up Formula Milk Powder",
+        "price": "₹2",
+        "rating": "2",
+        "quantity": "1.2 kg",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1773209973109-412.png"
+    },
+    {
+        "name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d4e5896d-0327-4183-9d9f-04c26846e4bd.png"
+    },
+    {
+        "name": "Mother Dairy Chocolate Milkshake",
+        "price": "₹23",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1774519548008-515.png"
+    },
+    {
+        "name": "Amul Kool Elaichi Flavoured Milk",
+        "price": "₹25",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c988c2c6-0808-4296-838f-aa20db89c1ed.png"
+    },
+    {
+        "name": "Real Thai Lite Coconut Milk",
+        "price": "₹195",
+        "rating": "",
+        "quantity": "400 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1773385515396-917.png"
+    },
+    {
+        "name": "Sunfeast Dark Fantasy Vanilla Milkshake",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "150 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1775107293742-901.png"
+    },
+    {
+        "name": "Amul Kool Badam Milkshake",
+        "price": "₹40",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0c03fbe5-0cc7-4e7d-9c99-bc04bca15cba.png"
+    },
+    {
+        "name": "Amul Kool Strawberry Flavoured Milk",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f9d052ec-1c7d-4965-9196-9192ee6241f3.png"
+    },
+    {
+        "name": "Nestle Nan Lo Lac Infant Formula Milk Powder",
+        "price": "₹620",
+        "rating": "",
+        "quantity": "400 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52216333-4ee2-44a2-a533-2c25c07f01c0.png"
+    },
+    {
+        "name": "Mother Dairy Strawberry Milkshake",
+        "price": "₹24",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1774519548008-535.png"
+    },
+    {
+        "name": "Nestle Lactogrow Nutritious Kids Milk Drink (Biscuity Vanilla Flavour (2 - 6 years))",
+        "price": "₹300",
+        "rating": "2",
+        "quantity": "400 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/26be904b-8dc7-4a70-8f13-35f02a77afec.png"
+    },
+    {
+        "name": "Amul Kool Koko Chocolate Flavoured Milk",
+        "price": "₹35",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c90621db-49bf-431b-aa35-00e24a786129.png"
+    },
+    {
+        "name": "Amul Pure Milk Cheese Block",
+        "price": "₹237",
+        "rating": "",
+        "quantity": "400 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bce5f050-e8fa-420b-a1b9-8d1abbed18cf.png"
+    },
+    {
+        "name": "Sunfeast Dark Fantasy Chocolate Milkshake",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "150 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1775107293742-926.png"
+    },
+    {
+        "name": "Smoodh Toffee Caramel Flavoured Milk (Pet Bottle)",
+        "price": "₹18",
+        "rating": "",
+        "quantity": "150 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d01285a3-683f-48ec-a69a-c39bb88a33c1.png"
+    },
+    {
+        "name": "Amulspray Baby Milk Powder",
+        "price": "₹253",
+        "rating": "",
+        "quantity": "500 g",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/088bcf58-60d1-4749-9031-4cab9da7ccc0.png"
+    },
+    {
+        "name": "Nestle NANGROW Nutritious Milk Drink for Growing Children (2 - 6 years)",
+        "price": "₹999",
+        "rating": "2",
+        "quantity": "800 g",
+        "delivery_time": "30 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9724fd59-b0bc-4c03-ad8f-52e06bf95823.png"
+    },
+    {
+        "name": "KLF Coconad Coconut Milk",
+        "price": "₹81",
+        "rating": "",
+        "quantity": "180 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/07f25b31-2d77-4fdc-8126-82b517de96d6.png"
+    },
+    {
+        "name": "Amul Kadai Doodh Flavoured Milk",
+        "price": "₹35",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3b9f0328-c7ec-45ac-80ce-2a804019f253.png"
+    },
+    {
+        "name": "Amul Kool Mango Milkshake",
+        "price": "₹30",
+        "rating": "",
+        "quantity": "200 ml",
+        "delivery_time": "10 MINS",
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8f9079ad-7d8f-4211-86bb-5177df6a7599.png"
+    }
+]
